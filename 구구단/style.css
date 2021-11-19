@@ -1,0 +1,47 @@
+* {
+    text-align: center;
+}
+
+h2 {
+    background-color: rgb(255, 160, 161);
+    padding: 4%;
+    padding-bottom:3%;
+    margin-bottom: 0;
+    font-size: 50px;
+}
+
+
+h5 {
+    margin-top: 0;
+    margin-bottom:2%;
+    padding: 2%;
+    background-color: rgb(204, 243, 255);
+    font-size: 40px;
+}
+
+h6 {
+    margin-top: 47%;
+    margin-bottom: 2%;
+    font-size:45px;
+    color: rgb(255, 255, 255);
+
+}
+body {
+    background-color: #19652e;
+    font-size: 60px;
+    display: block;
+}
+
+button {
+    font-size: 30px;
+}
+
+form {
+    font-size: 70px;
+}
+
+#result {
+    padding: 3%;
+    color:crimson;
+}
+
