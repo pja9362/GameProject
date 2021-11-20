@@ -1,0 +1,30 @@
+* {
+    text-align: center;
+    align-items: center;
+}
+h1 {
+    margin-top: 15%;
+    font-size: 70px;
+}
+#image{
+
+    margin:10%;
+    margin-top: 15%;
+    z-index:10;
+    margin-bottom:7%;
+}
+#n_id{position:absolute;left:48%;top:25%;z-index:20;}
+
+#start_btn {
+    font-size: 40px;
+    padding:1%;
+    padding-left: 3%;
+    padding-right: 3%;
+    background-color: #f99d13;
+    border-radius: 10%;
+    color:#fff;
+}
+
+body {
+    background-color:#19652e;
+}
